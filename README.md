@@ -18,6 +18,8 @@ DELETE /api/books/{id}
 
 ![DELETE Screenshot](DELETE_Screenshot.png)
 
+Using GET to show deleted book
+
 ![DELETE2 Screenshot](Delete2_Screenshot.png)
 
 
