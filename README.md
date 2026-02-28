@@ -7,7 +7,8 @@ PUT /api/books/{id}
 ![PUT Screenshot](PUT_Screenshot.png)
 
 ## PATCH - Partial Update
-
+Endpoint:
+PATCH /api/books/{id}
 
 ![PATCH Screenshot](PATCH_Screenshot.png)
 
@@ -16,6 +17,9 @@ Endpoint:
 DELETE /api/books/{id}
 
 ![DELETE Screenshot](DELETE_Screenshot.png)
+
+![DELETE2 Screenshot](Delete2_Screenshot.png)
+
 
 ## Pagination
 Endpoint:
