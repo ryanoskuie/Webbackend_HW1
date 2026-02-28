@@ -27,7 +27,7 @@ GET /api/books/paged?page=0&size=1
 
 ![Pagination Screenshot](GETPag_Screenshot.png)
 
-## Advanced Endpoint (Filter + Sort + Paginate)
+## Advanced Endpoint
 Endpoint:
 GET /api/books/advanced?title=java&minPrice=25&sortBy=price&order=desc&page=0&size=2
 
